@@ -93,7 +93,7 @@ const Hero = () => {
                             initial="hidden"
                             animate="visible"
                         >
-                            
+                            Best Tech 
                             <br />
                             On Best Prices
                             <svg
